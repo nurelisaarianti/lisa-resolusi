@@ -1,2 +1,2 @@
 # lisa-resolusi
-Repository untuk menyimpan LISA kedepannya
+Repository untuk menyimpan rencana LISA kedepannya
